@@ -1,0 +1,14 @@
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\bin\Debug\net6.0\CalculationTask.exe
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\bin\Debug\net6.0\CalculationTask.deps.json
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\bin\Debug\net6.0\CalculationTask.runtimeconfig.json
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\bin\Debug\net6.0\CalculationTask.dll
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\bin\Debug\net6.0\CalculationTask.pdb
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.AssemblyInfoInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.AssemblyInfo.cs
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.csproj.CoreCompileInputs.cache
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.dll
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\refint\CalculationTask.dll
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.pdb
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\CalculationTask.genruntimeconfig.cache
+C:\Users\Feteli Isgenderov\source\repos\CalculationTask\CalculationTask\obj\Debug\net6.0\ref\CalculationTask.dll
