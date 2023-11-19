@@ -21,11 +21,6 @@
 //}
 
 
-
-
-
-
-
 #endregion
 
 #region DateTimeExample 2
